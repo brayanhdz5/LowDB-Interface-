@@ -1,0 +1,32 @@
+{
+  "name": "lowdb-interface",
+  "version": "1.0.0",
+  "description": "Rest Api ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "dev": "nodemon ./src/index.js --ignore db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brayanhdz5/LowDB-Interface-.git"
+  },
+  "keywords": [
+    "Node.JS"
+  ],
+  "author": "Brayanhdz5 <brayan.hernandez1222@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brayanhdz5/LowDB-Interface-/issues"
+  },
+  "homepage": "https://github.com/brayanhdz5/LowDB-Interface-#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lowdb": "^1.0.0",
+    "morgan": "^1.10.0",
+    "uuid": "^8.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
