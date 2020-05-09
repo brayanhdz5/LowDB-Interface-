@@ -1,2 +1,2 @@
 # LowDB-Interface-
-using a a simple JSON like DB using  LowDB interfaces
+Rest API with an JSON DB using LowDB interfaces
