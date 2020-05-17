@@ -1,4 +1,4 @@
-const { createConnection, getConnection} = require('./db.config');
+const { createConnection, getConnection } = require('./db.config');
 
 
 module.exports = {
